@@ -1,0 +1,19 @@
+.navbar-brand {
+	color: #ffffff;
+}
+
+.breadcrumb {
+	padding: .1em 1em;
+	background-color: #bedeff;
+	border-radius: 0;
+}
+
+.search-params-header {
+	text-align: center;
+	padding: .5em 1em;
+	color: #ffffff;
+}
+
+.search-params-body {
+	padding: .5em;
+}
